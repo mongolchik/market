@@ -1,11 +1,18 @@
 {
     "users":[
-      {
-        "id":974,
-        "name":"Alesha",
-        "surname":"Popovich",
-        "photo-url":"",
-        "balance":9
-      }  
+        {
+            "id":974,
+            "name":"Alesha",
+            "surname":"Popovich",
+            "photo-url":"",
+            "balance":9
+          },
+          {
+            "id":1234567890,
+            "name":"Timofey",
+            "surname":"Snackers",
+            "photo_url":" " ,
+            "balance":10000
+             }
     ]
 }
