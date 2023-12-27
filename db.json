@@ -1,5 +1,11 @@
 {
     "users":[
-        
+      {
+        "id":974,
+        "name":"Alesha",
+        "surname":"Popovich",
+        "photo-url":"",
+        "balance":9
+      }  
     ]
 }
