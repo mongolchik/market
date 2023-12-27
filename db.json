@@ -1,5 +1,11 @@
 {
     "users":[
-        
+        {
+       "id":1234567890,
+       "name":"Timofey",
+       "surname":"Snackers",
+       "photo_url":" " ,
+       "balance":10000
+        }
     ]
 }
